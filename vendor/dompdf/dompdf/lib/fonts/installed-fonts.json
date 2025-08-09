@@ -1,0 +1,8 @@
+{
+    "montserrat": {
+        "normal": "C:\\xampp\\htdocs\\SLI_ASSET\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_normal_8b39ce6f1e92b671adb8930c94175e08",
+        "500": "C:\\xampp\\htdocs\\SLI_ASSET\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_500_b8456ccdc8e65e0603c780e706bb4c7b",
+        "600": "C:\\xampp\\htdocs\\SLI_ASSET\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_600_4a32dc2378b50649c05087a84ee6c5f6",
+        "bold": "montserrat_bold_d6f7b66b1ae15f51f1e1cecb60246712"
+    }
+}
